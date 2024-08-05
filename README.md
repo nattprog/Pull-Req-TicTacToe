@@ -1,13 +1,13 @@
-First and foremost:
-Clone repo to your local desktop, in order to run turtle properly.
+# First and foremost:
+1. Clone repo to your local desktop, in order to run turtle properly.
 
-To play:
+# To play:
 1. Create a new branch.
 2. Duplicate the Play_TicTacToe_Here.py file. Rename it Match-[num].py or [name]vs[name].py etc.
 3. In that new play file, add your move, and commit it to that branch.
 4. Create a pull request to merge the branch into main, and assign it to your opponent!
 
-Subsequent moves:
+# Subsequent moves:
 1. Create a new branch
 2. Open your play file and add your move, and commit it to that branch.
 3. Create a pull request to merge the branch into main, and assign it to your opponent!
