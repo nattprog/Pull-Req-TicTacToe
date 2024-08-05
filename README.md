@@ -1,5 +1,7 @@
-Workflow should be:
+First and foremost:
+Clone repo to your local desktop, in order to run turtle properly.
 
+To play:
 1. Create a new branch.
 2. Duplicate the Play_TicTacToe_Here.py file. Rename it Match-[num].py or [name]vs[name].py etc.
 3. In that new play file, add your move, and commit it to that branch.
