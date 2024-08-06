@@ -28,9 +28,9 @@ Noughts(-1, 1)
 Crosses(-1, -1)
 Noughts(1, -1)
 # c===3
-
-
-
+# (@-@)
+Crosses(0, 0)
+# Wait a minute...
 
 
 # ............ End Of Code ............
