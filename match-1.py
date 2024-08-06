@@ -26,6 +26,8 @@ BoardInitiate()
 
 Noughts(-1, 1)
 Crosses(-1, -1)
+Noughts(1, -1)
+# c===3
 
 
 
