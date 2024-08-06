@@ -10,9 +10,9 @@ BoardInitiate()
 # .......................................
 # Enter your move like this:
 
-# Noughts([x value], [y value])
+# Noughts(x-value, y-value)
 
-# Crosses([x value], [y value])
+# Crosses(x-value, y-value)
 
 # eg:
 # Noughts(-1, 0)
