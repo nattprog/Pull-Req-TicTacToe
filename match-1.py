@@ -21,8 +21,8 @@ BoardInitiate()
 # Add subsequent moves below previous moves.
 # ............ Enter Code Below ............
 
-# Noughts: [Nat]
-# Crosses: [Shawn]
+# Noughts: Nat
+# Crosses: Shawn
 
 Noughts(-1, 1)
 Crosses(-1, -1)
