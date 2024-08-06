@@ -22,10 +22,10 @@ BoardInitiate()
 # ............ Enter Code Below ............
 
 # Noughts: [Nat]
-# Crosses: [Fill in name]
+# Crosses: [Shawn]
 
 Noughts(-1, 1)
-
+Crosses(-1, -1)
 
 
 
