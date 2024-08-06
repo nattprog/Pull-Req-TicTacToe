@@ -24,7 +24,7 @@ BoardInitiate()
 # Noughts: Hakeem
 # Crosses: [Fill in name]
 
-Noughts([1], [0])
+Noughts(1, 0)
 
 
 
