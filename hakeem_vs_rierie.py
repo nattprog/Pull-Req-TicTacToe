@@ -26,6 +26,7 @@ BoardInitiate()
 
 Noughts(1, 0)
 Crosses(0, 0)
+Noughts(1, 1)
 
 
 
